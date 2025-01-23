@@ -10,29 +10,20 @@ This project provides a Kanban board built with React and TypeScript, created as
 ## Tech Stack
 
 - **React & TypeScript**
-- **react-beautiful-dnd (for drag-and-drop)**
 - **localStorage for data persistence**
 
 ## SetUp
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/sanjeevRae/TaskB-KANBAN-BOARD.git
-cd TaskB-KANBAN-BOARD
-Install dependencies:
+**Clone the repository:**
 
-bash
-Copy
-Edit
-npm install
-Run the development server:
+1. Clone the repository: 
+`git clone https://github.com/sanjeevRae/TaskB-KANBAN-BOARD.git`
 
-bash
-Copy
-Edit
-npm run dev
+2. Install dependencies:
+    `npm install`
+3. Start the development server:  
+   `npm start`
+   
 Open the app in your browser at:
 http://localhost:5173/
 
