@@ -3,9 +3,9 @@
 This project provides a Kanban board built with React and TypeScript, created as an assignment from Vrit Technology for the selection process of the Frontend Internship.
 
 ## Features
--**Drag-and-Drop**
--**Persistence**
--**Accessibility**
+- **Drag-and-Drop**
+- **Persistence**
+- **Accessibility**
 
 ## Tech Stack
 
