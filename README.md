@@ -3,9 +3,9 @@
 This project provides a Kanban board built with React and TypeScript, created as an assignment from Vrit Technology for the selection process of the Frontend Internship.
 
 ## Features
--"**Drag-and-Drop**": Implemented using react-beautiful-dnd for moving task cards between columns.
--"**Persistence**": Local storage is used to save task data.
--"**Accessibility**": Fully accessible with keyboard navigation.<br><br>
+-**Drag-and-Drop**
+-**Persistence**
+-**Accessibility**
 
 ## Tech Stack
 
