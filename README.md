@@ -9,9 +9,9 @@ This project provides a Kanban board built with React and TypeScript, created as
 
 ## Tech Stack
 
--"**React & TypeScript**"
--"**react-beautiful-dnd (for drag-and-drop)**
--"**localStorage for data persistence**"
+- **React & TypeScript**
+- **react-beautiful-dnd (for drag-and-drop)**
+- **localStorage for data persistence**
 
 ## SetUp
 Clone the repository:
