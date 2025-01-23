@@ -1,3 +1,4 @@
+![forgit](https://github.com/sanjeevRae/TaskB-KANBAN-BOARD/blob/master/public/s1.png)
 ## Task B: Drag-and-Drop Kanban Board
 This project provides a Kanban board built with React and TypeScript, created as an assignment from Vrit Technology for the selection process of the Frontend Internship.
 
